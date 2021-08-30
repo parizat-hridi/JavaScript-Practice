@@ -1,3 +1,4 @@
+//number method | toFixed | toPrecision
 var num = 123;
 document.write(num);
 
